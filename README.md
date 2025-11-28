@@ -2,7 +2,7 @@
 
 This repo contains a set of linting rules for Vale based on the Elastic style guide and recommendations.
 
-## Get started
+## Get started test
 
 Run these commands to install the Elastic style guide locally:
 
